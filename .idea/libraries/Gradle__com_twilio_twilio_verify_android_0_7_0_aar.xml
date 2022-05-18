@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twilio:twilio-verify-android:0.7.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/98a04f4969345c0cdbcdfc43ebae9e50/transformed/twilio-verify-android-0.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/98a04f4969345c0cdbcdfc43ebae9e50/transformed/twilio-verify-android-0.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/98a04f4969345c0cdbcdfc43ebae9e50/transformed/twilio-verify-android-0.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twilio/twilio-verify-android/0.7.0/207d7caa102f41749f5cbca376ac64acb161352c/twilio-verify-android-0.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

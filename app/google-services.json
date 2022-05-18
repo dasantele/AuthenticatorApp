@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252940456702",
+    "project_id": "pruebaautenthicator",
+    "storage_bucket": "pruebaautenthicator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252940456702:android:aa22a6b9e2a542b1d00baf",
+        "android_client_info": {
+          "package_name": "com.example.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252940456702-790i03jmu4lc8oakgl82u1b1j5ek43m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Ffla2i5VVJ4-OoB2FrL42Xd8OFxtdXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252940456702-790i03jmu4lc8oakgl82u1b1j5ek43m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
